@@ -1,0 +1,234 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+body
+{
+	background: rgb(255, 179, 102);
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+.corpo
+{
+	padding: 200px;
+	height: 600px;
+}
+
+.corpo h1
+{
+	font-size: 70px;
+	padding-bottom: 30px;
+	-webkit-text-stroke: 1px white; 
+}
+
+.divisor
+{
+	color: white;
+}
+
+/* Nav */
+
+.abc
+{
+	color: white;
+	padding: 20px;
+}
+
+.abc:hover
+{
+	color: rgb(30,215,96);
+	text-decoration: none;
+}
+
+#imgTAM
+{
+	margin: 5px 0px 5px 0px;
+	height: 40px;
+}
+
+nav
+{
+	 background: rgba(0,0,0,0.6);
+
+}
+
+
+/* Botões */
+
+.corpo
+{
+	text-align: center;
+	color: white;
+}
+
+.btn-custom {
+	color: white;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+}
+
+.btn-roxo {
+	background: #1db954;
+}
+.btn-roxo:hover {
+	background-color: rgb(30,215,96);
+	color: white;
+}
+
+.btn-white
+{
+	border: 2px white solid;
+}
+
+.corpo button
+{
+	font-size: 16.5px;
+	margin-left: 5px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+/*Imagens*/
+
+.bingo img
+{
+	height: 200px;
+}
+
+.esquerdinha
+{
+	margin-left: -4px;
+}
+
+/*Bingo*/
+
+.bingo
+{
+	-webkit-text-stroke: 0,5px black;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.bingo h4
+{
+	-webkit-text-stroke: 1px black;
+	padding-bottom: 10px;
+}
+}
+
+.bingo h1
+{
+	-webkit-text-stroke: 1px black;
+	padding-bottom: 30px;
+}
+
+/*Bingo2*/
+
+.bingo2
+{
+	color: white;
+	-webkit-text-stroke: 0,5px white;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.bingo2 h4
+{
+	-webkit-text-stroke: 1px white;
+	padding-bottom: 10px;
+}
+}
+
+.bingo2 h1
+{
+	-webkit-text-stroke: 1px white;
+	padding-bottom: 30px;
+}
+
+.bingo2 img
+{
+	height: 420px;
+	position: absolute;
+	bottom: -44px;
+	right: 160px;
+}
+
+/*Footer*/
+
+footer
+{
+	padding-top:75px; 
+	background: black;
+	color: white;
+}
+
+.list-foot
+{
+	font-size: 15px;
+}
+
+.list-foot li
+{
+	margin-bottom: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.flag-tam
+{
+	width: 35px;
+}
+
+
+footer li:hover
+{
+	color: rgb(30,215,96);
+}
+
+.menu-footer a
+{
+	color: gray;
+	text-decoration: none;
+	padding-right: 10px;
+	font-size: 12px;
+}
+
+.menu-footer a:hover
+{
+	color: rgb(30,215,96);
+}
+
+.titulo
+{
+	columns: gray;
+}
+
+.redessociais
+{
+	text-align: right;
+}
+
+.redessociais img
+{
+	margin-left: 10px;
+}
+
+.cinzao
+{
+	color: gray;
+	-webkit-text-stroke: 0.5px gray;
+	font-size: 11.5px;
+}
+
+.cinzao li:hover
+{
+	color: gray;
+
+}
